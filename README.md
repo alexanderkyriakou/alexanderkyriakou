@@ -8,7 +8,7 @@ Always learning something new, currently exploring the topics...
 - Advanced DAX and Power Query
 - Azure
 
-My preferred sources of knowledge include <a href="https://www.coursera.org/user/14395a3f365033bf82b3c02420f2ec4e">Coursera</a>, <a href="https://www.udemy.com/user/alexander-kyriakou-2/">Udemy</a>, <a href="https://learn.deeplearning.ai/">DeepLearning.ai</a>, <a href="https://www.kaggle.com/learn">Kaggle</a>, <a href="https://www.datacamp.com/courses-all">DataCamp</a>, <a href="https://learn.microsoft.com/en-us/users/alexanderkyriakou/">MS Learn</a>, <a href="https://skillshop.exceedlms.com/student/catalog/list?category_ids=7879">Google Digital Garage</a>, <a href="https://web.dev/learn">web.dev</a>, <a href="https://www.w3schools.com/">W3Schools</a>.
+My preferred sources of knowledge include <a href="https://www.coursera.org/user/14395a3f365033bf82b3c02420f2ec4e">Coursera</a>, <a href="https://www.udemy.com/user/alexander-kyriakou-2/">Udemy</a>, <a href="https://www.linkedin.com/learning/">LinkedIn Learning</a>, <a href="https://learn.deeplearning.ai/">DeepLearning.ai</a>, <a href="https://www.kaggle.com/learn">Kaggle</a>, <a href="https://www.datacamp.com/courses-all">DataCamp</a>, <a href="https://learn.microsoft.com/en-us/users/alexanderkyriakou/">MS Learn</a>, <a href="https://skillshop.exceedlms.com/student/catalog/list?category_ids=7879">Google Digital Garage</a>, <a href="https://web.dev/learn">web.dev</a>, <a href="https://www.w3schools.com/">W3Schools</a>.
 
 <h3 align="center">Feel free to check</h4>
 
