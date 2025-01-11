@@ -15,19 +15,21 @@ My preferred sources of knowledge include <a href="https://www.coursera.org/user
 <h3 align="center">Feel free to check</h4>
 
 <p align="center"> 
-	<a href="https://twitter.com/ALKyriakou" target="_blank">
+	<a href="https://bsky.app/profile/Alexanderkyriakou.bsky.social"><img src="./icons/bluesky.png" alt="Logo of Bluesky Social" title="Follow Alexander Kyriakou on Bluesky" width=5.5%></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alexanderkyriakou/"><img src="./icons/linkedin.png" alt="Logo of LinkedIn" title="Follow Alexander Kyriakou on LinkedIn" width=5%></a>
+&nbsp;&nbsp;&nbsp;
+	<a href="https://www.kaggle.com/alexanderkyriakou "><img src="./icons/kaggle.png" alt="Logo of Kaggle" title="Check Alexander Kyriakou's Keggle" width=5%></a>
+&nbsp;&nbsp;&nbsp;
+	<a href="https://public.tableau.com/app/profile/alexanderkyriakou/vizzes"><img src="./icons/tableau.png" alt="Logo of Tableau" title="Check Alexander Kyriakou's Public Tableau profile" width=5%></a>
+&nbsp;&nbsp;&nbsp;
+	<a href="https://www.facebook.com/kyriakoualexander/"><img src="./icons/facebook.png" alt="Logo of Facebook" title="Follow Alexander Kyriakou on Facebook" width=5%></a>
+&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/ALKyriakou" target="_blank">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="./icons/x-ori-dark.png" width=4.5%>
 	  <source media="(prefers-color-scheme: light)" srcset="./icons/x-ori-light.png" width=4.5%>
-		<img alt="Logo of X that leads to Alexander Kyriakou's profile" title="Logo of X that leads to Alexander Kyriakou's profile" src="./icons/x-ori-light.png" width=4.5%>
+		<img alt="Logo of X" title="Follow Alexander Kyriakou on X (Twitter)" src="./icons/x-ori-light.png" width=4.5%>
 	</picture>
 </a>
-&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/alexanderkyriakou/"><img src="./icons/linkedin.png" alt="Logo of LinkedIn that leads to Alexander Kyriakou's profile" title="Logo of LinkedIn that leads to Alexander Kyriakou's profile" width=5%></a>
-&nbsp;&nbsp;&nbsp;
-	<a href="https://www.kaggle.com/alexanderkyriakou "><img src="./icons/kaggle.png" alt="Logo of Kaggle that leads to Alexander Kyriakou's profile" title="Logo of Kaggle that leads to Alexander Kyriakou's profile" width=5%></a>
-&nbsp;&nbsp;&nbsp;
-	<a href="https://public.tableau.com/app/profile/alexanderkyriakou/vizzes"><img src="./icons/tableau.png" alt="Logo of Tableau that leads to Alexander Kyriakou's profile" title="Logo of Tableau that leads to Alexander Kyriakou's profile" width=5%></a>
-&nbsp;&nbsp;&nbsp;
-	<a href="https://www.facebook.com/kyriakoualexander/"><img src="./icons/facebook.png" alt="Logo of Facebook that leads to Alexander Kyriakou's profile" title="Logo of Facebook that leads to Alexander Kyriakou's profile" width=5%></a>
 </p>
